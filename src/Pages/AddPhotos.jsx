@@ -1,5 +1,4 @@
-import React from "react";
-import Photos from "../components/Add/Photos";
+import Photos from "../Components/Add/Photos";
 
 export default function AddPhotos() {
   return (

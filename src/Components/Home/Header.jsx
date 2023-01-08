@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function Header() {
   return (
     <div className="container my-16 px-5 flex flex-wrap">
